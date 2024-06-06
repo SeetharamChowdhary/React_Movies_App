@@ -11,7 +11,7 @@ const Container = styled.div`
   flex-direction: column;
 `;
 const Header = styled.div`
-background-color:red;
+
   background-color:black;
   color: white;
   display: flex;
